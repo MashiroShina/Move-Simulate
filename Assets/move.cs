@@ -61,7 +61,7 @@ public class move : MonoBehaviour {
         //    //transform.Translate(new Vector3(h, 0, v) * Time.deltaTime, Space.World);
         //}
     }
-
+	//cam move
     private void cameraView()
     {
         float y = Input.GetAxis("Mouse X");
